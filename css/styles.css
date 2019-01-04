@@ -1,0 +1,26 @@
+#main{
+    width: 70%;
+    padding-bottom: 20px;
+    margin: auto;
+    
+}
+
+.filterBtn{
+    margin-right: 20px !important;
+    float: left;
+}
+
+.filtering .grid{
+    box-shadow: 0 1px 3px 0 #d4d4d5, 0 0 0 1px #d4d4d5; 
+    margin: 0;
+}
+
+#head{
+    padding: 20px 0;
+}
+
+.toolbar{
+    float: right;
+}
+
+th.dt-center, td.dt-center { text-align: center !important; }
